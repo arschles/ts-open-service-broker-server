@@ -1,0 +1,28 @@
+{
+  "name": "ts-open-service-broker-server",
+  "version": "0.0.1",
+  "description": "A framework for writing Open Service Brokers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arschles/ts-open-service-broker-server.git"
+  },
+  "keywords": [
+    "broker"
+  ],
+  "author": "Aaron Schlesinger",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arschles/ts-open-service-broker-server/issues"
+  },
+  "homepage": "https://github.com/arschles/ts-open-service-broker-server#readme",
+  "dependencies": {
+    "@types/express": "^4.0.36",
+    "@types/node": "^8.0.2",
+    "express": "^4.0.36",
+    "typescript": "^2.3.4"
+  }
+}
